@@ -1,0 +1,12 @@
+.Linedraw{
+    
+    background-color:#ff4747;
+   
+    line-height:1px;
+    
+    position:absolute;
+}
+.btn-animated{
+    animation: moveInButtom .5 ease-out .75s;
+    animation-fill-mode: backwards;
+}

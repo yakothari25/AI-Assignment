@@ -1,0 +1,26 @@
+.Absolute {}
+
+.Node {
+    position: absolute;
+    height: 50px;
+    border: 3px solid #73AD21;
+}
+
+.Total {
+    font-size: calc(5px + 2vmin);
+    color: white;
+    width: fit-content;
+    height: fit-content;
+    position: absolute;
+    right: 10vw;
+    top: 55vh;
+}
+
+.data {
+    font-size: calc(2px + 2vmin);
+    color: white;
+    width: 20vw;
+    position: absolute;
+    right: 3vw;
+    top: 75vh;
+}
